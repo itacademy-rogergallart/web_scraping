@@ -1,2 +1,5 @@
-# web_scraping
-S16 T02  Webscraping
+Curs: ITAcademy Data Science
+
+S16 T02: Tasca de web scraping
+
+Alumne: Roger Gallart
