@@ -1,0 +1,101 @@
+position,book,author,avg_rating,num_ratings,score,num_votes
+1,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.32,6988237,3164067,32235
+2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.50,2778744,2761210,28232
+3,To Kill a Mockingbird,Harper Lee,4.27,4973150,2394659,24597
+4,Pride and Prejudice,Jane Austen,4.27,3364393,2161526,22256
+5,"Twilight (The Twilight Saga, #1)",Stephenie Meyer,3.62,5435675,1510030,15392
+6,The Book Thief,Markus Zusak,4.38,2049232,1490390,15363
+7,Animal Farm,George Orwell,3.96,3068661,1352072,14035
+8,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",C.S. Lewis,4.25,570175,1292185,13497
+9,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.60,118797,1239399,12918
+10,The Fault in Our Stars,John Green,4.18,4012180,1151564,11947
+11,Gone with the Wind,Margaret Mitchell,4.30,1130894,1108685,11428
+12,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.22,1574951,1101041,11382
+13,The Giving Tree,Shel Silverstein,4.37,981153,1058184,10972
+14,Wuthering Heights,Emily Brontë,3.87,1475102,1028481,10760
+15,The Picture of Dorian Gray,Oscar Wilde,4.10,1106102,937809,9871
+16,"The Da Vinci Code (Robert Langdon, #2)",Dan Brown,3.88,2080852,908610,9560
+17,Jane Eyre,Charlotte Brontë,4.13,1769988,885953,9350
+18,Memoirs of a Geisha,Arthur Golden,4.13,1813142,882629,9198
+19,Alice's Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,4.06,496914,868412,9169
+20,Les Misérables,Victor Hugo,4.18,723339,845389,8884
+21,Fahrenheit 451,Ray Bradbury,3.98,1894376,839022,9005
+22,The Perks of Being a Wallflower,Stephen Chbosky,4.21,1400248,834098,8754
+23,"Divergent (Divergent, #1)",Veronica Roth,4.17,3238783,832966,8748
+24,The Great Gatsby,F. Scott Fitzgerald,3.93,4171503,822522,8838
+25,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,4.47,7925968,816189,8640
+26,Lord of the Flies,William Golding,3.69,2462242,806244,8576
+27,Crime and Punishment,Fyodor Dostoevsky,4.23,711022,799904,8358
+28,Romeo and Juliet,William Shakespeare,3.75,2215133,795882,8538
+29,The Little Prince,Antoine de Saint-Exupéry,4.31,1589303,773033,8240
+30,"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,4.09,1764432,754673,7941
+31,"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,4.26,813916,741065,7816
+32,The Help,Kathryn Stockett,4.46,2347367,740731,7928
+33,"Ender's Game (Ender's Saga, #1)",Orson Scott Card,4.30,1220675,736967,7685
+34,Charlotte's Web,E.B. White,4.18,1553231,708012,7648
+35,"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,4.27,2269322,702820,7461
+36,Of Mice and Men,John Steinbeck,3.88,2110152,695487,7509
+37,The Time Traveler's Wife,Audrey Niffenegger,3.98,1655621,673307,7046
+38,Dracula,Bram Stoker,4.00,1034363,671090,7245
+39,Brave New World,Aldous Huxley,3.99,1574727,659415,7079
+40,One Hundred Years of Solitude,Gabriel García Márquez,4.09,819922,648220,6823
+41,The Catcher in the Rye,J.D. Salinger,3.81,2969234,640046,6916
+42,The Princess Bride,William Goldman,4.25,830716,623849,6647
+43,A Thousand Splendid Suns,Khaled Hosseini,4.39,1263295,614619,6517
+44,The Secret Garden,Frances Hodgson Burnett,4.13,987324,611456,6720
+45,The Alchemist,Paulo Coelho,3.89,2371160,605049,6344
+46,"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,4.44,2155158,589776,6298
+47,"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,3.99,1107662,581839,6217
+48,The Outsiders,S.E. Hinton,4.10,1052346,548916,5931
+49,The Adventures of Huckleberry Finn,Mark Twain,3.82,1195728,529698,5831
+50,The Lovely Bones,Alice Sebold,3.83,2138438,523696,5657
+51,The Odyssey,Homer,3.78,922477,519058,5699
+52,Where the Wild Things Are,Maurice Sendak,4.22,886760,516545,5630
+53,Green Eggs and Ham,Dr. Seuss,4.29,677578,510495,5617
+54,Life of Pi,Yann Martel,3.92,1434589,504868,5464
+55,A Tale of Two Cities,Charles Dickens,3.85,856187,503253,5520
+56,Water for Elephants,Sara Gruen,4.09,1464400,480940,5183
+57,Lolita,Vladimir Nabokov,3.88,716136,477353,5143
+58,The Kite Runner,Khaled Hosseini,4.31,2641533,476216,5188
+59,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.83,1274371,465756,5204
+60,Slaughterhouse-Five,Kurt Vonnegut Jr.,4.08,1210068,463647,5016
+61,"The Handmaid's Tale (The Handmaid's Tale, #1)",Margaret Atwood,4.12,1641471,463135,5076
+62,"The Giver (The Giver, #1)",Lois Lowry,4.13,1988268,455853,4966
+63,"Dune (Dune, #1)",Frank Herbert,4.24,922343,432117,4662
+64,Little Women,Louisa May Alcott,4.11,1836268,421207,4767
+65,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.61,3089171,420758,4573
+66,Catch-22,Joseph Heller,3.98,763982,415593,4536
+67,1984,George Orwell,4.19,3561386,412359,4474
+68,The Stand,Stephen King,4.33,674767,406110,4393
+69,"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett,4.32,691466,403109,4337
+70,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,4.29,266248,390624,4374
+71,"Watership Down (Watership Down, #1)",Richard  Adams,4.06,454552,381457,4170
+72,Great Expectations,Charles Dickens,3.78,701083,377819,4339
+73,The Bell Jar,Sylvia Plath,4.02,671152,374476,4105
+74,Matilda,Roald Dahl,4.32,744222,371950,4135
+75,Anna Karenina,Leo Tolstoy,4.06,723949,367762,4028
+76,"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.37,2508602,364870,4106
+77,One Flew Over the Cuckoo's Nest,Ken Kesey,4.19,671505,358566,4062
+78,"Outlander (Outlander, #1)",Diana Gabaldon,4.23,906830,356884,3823
+79,"The Girl with the Dragon Tattoo (Millennium, #1)",Stieg Larsson,4.15,2816818,353414,3945
+80,Rebecca,Daphne du Maurier,4.23,518577,348905,3915
+81,My Sister's Keeper,Jodi Picoult,4.08,1110147,348467,3836
+82,The Color Purple,Alice Walker,4.24,570513,336036,3815
+83,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.57,3188834,320921,3556
+84,A Tree Grows in Brooklyn,Betty  Smith,4.28,412146,317239,3494
+85,The Brothers Karamazov,Fyodor Dostoevsky,4.32,269233,314042,3470
+86,A Clockwork Orange,Anthony Burgess,3.99,648461,311847,3514
+87,The Road,Cormac McCarthy,3.97,776041,307826,3380
+88,"Angela's Ashes (Frank McCourt, #1)",Frank McCourt,4.12,575355,295621,3301
+89,"Vampire Academy (Vampire Academy, #1)",Richelle Mead,4.11,599286,287653,3093
+90,Siddhartha,Hermann Hesse,4.04,640813,284268,3173
+91,The Poisonwood Bible,Barbara Kingsolver,4.07,686952,276329,3034
+92,"The Golden Compass (His Dark Materials, #1)",Philip Pullman,4.00,1376023,275351,3078
+93,Don Quixote,Miguel de Cervantes Saavedra,3.88,230871,264306,3010
+94,Atlas Shrugged,Ayn Rand,3.69,368877,253024,2780
+95,The Old Man and the Sea,Ernest Hemingway,3.79,922639,247942,2866
+96,"The Notebook (The Notebook, #1)",Nicholas Sparks,4.12,1434258,237699,2683
+97,"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,4.31,297127,233497,2743
+98,The Complete Stories and Poems,Edgar Allan Poe,4.37,236313,231451,2677
+99,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,4.00,518863,217163,2486
+100,A Prayer for Owen Meany,John Irving,4.23,296644,211353,2326
